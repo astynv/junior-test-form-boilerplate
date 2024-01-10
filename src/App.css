@@ -1,0 +1,9 @@
+.App {
+  max-width: 760px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-height: 100vh;
+  font-family: 'Inter';
+}
